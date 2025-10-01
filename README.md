@@ -25,7 +25,7 @@
 
 ---
 
-### 🌟 Project 2: [Freelancer Finance Tracker]https://github.com/iamgunavardhan/freelancer-finance-tracker)
+### 🌟 Project 2: [Freelancer Finance Tracker](https://github.com/iamgunavardhan/freelancer-finance-tracker)
 🔹 **Tech Stack**:React, TypeScript, Tailwind, Vite 
 🔹 **Description**: A finance management tool for freelancers to track income, expenses, and generate clear financial insights.    
 
