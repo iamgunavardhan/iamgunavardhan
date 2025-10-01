@@ -20,13 +20,13 @@
 ## 📌 Featured Projects
 
 ### 🌟 Project 1: [Shop Wave](https://github.com/iamgunavardhan/shop-wave)
-🔹 **Tech Stack**: React, TypeScript, Tailwind, Vite  
+🔹 **Tech Stack**: React, TypeScript, Tailwind, Vite.     
 🔹 **Description**: A modern eCommerce web application with a responsive UI.    
 
 ---
 
 ### 🌟 Project 2: [Freelancer Finance Tracker](https://github.com/iamgunavardhan/freelancer-finance-tracker)
-🔹 **Tech Stack**:React, TypeScript, Tailwind, Vite 
+🔹 **Tech Stack**:React, TypeScript, Tailwind, Vite.     
 🔹 **Description**: A finance management tool for freelancers to track income, expenses, and generate clear financial insights.    
 
 ---
